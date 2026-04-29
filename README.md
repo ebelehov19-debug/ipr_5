@@ -1,5 +1,5 @@
 ## ШАГ1
-``cd Lab3``
+``cd IPR_5``
 
 ### Сборка backend
 ``cd backend``
