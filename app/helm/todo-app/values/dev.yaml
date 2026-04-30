@@ -1,5 +1,0 @@
-namespace: todo-dev
-backend:
-  replicas: 1
-database:
-  host: postgres-headless.todo-dev.svc.cluster.local
